@@ -1,0 +1,21 @@
+{
+    "name": "jvdlaan/scape",
+    "authors": [
+        {
+            "name": "Jeroen van der Laan",
+            "email": "jvdlaan@unet.nl"
+        }
+    ],
+    "config": {
+        "bin-dir": "bin"
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
