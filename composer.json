@@ -1,9 +1,9 @@
 {
-    "name": "jvdlaan/scape",
+    "name": "jvdlaan/php-dijkstra",
     "authors": [
         {
             "name": "Jeroen van der Laan",
-            "email": "jvdlaan@unet.nl"
+            "email": "jeroenlaan@gmail.com"
         }
     ],
     "config": {
