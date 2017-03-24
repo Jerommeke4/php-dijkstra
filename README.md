@@ -14,3 +14,8 @@ After the code is hosted somewhere navigate to `http://your.host:your_port/`. Us
 Docker compose
 --------------
 Using this simple tool can be done locally or using Docker. Starting the container to test this functionality should be as simple as entering `docker-compose up`.
+
+Screenshot
+----------
+Example output
+![image](http://i.imgur.com/FyqAllb.png)
